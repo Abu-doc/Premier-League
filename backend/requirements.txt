@@ -4,4 +4,3 @@ pydantic
 pandas
 numpy
 scipy 
-# For database interactions 
