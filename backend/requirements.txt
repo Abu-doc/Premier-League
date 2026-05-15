@@ -3,4 +3,5 @@ uvicorn[standard]
 pydantic
 pandas
 numpy
-scipy
+scipy 
+# For database interactions 
